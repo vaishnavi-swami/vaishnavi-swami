@@ -4,7 +4,8 @@
 📊 Skilled in Power BI, Tableau, and Excel for data visualization and reporting.<br>
 🐍 Proficient in Python for data cleaning, analysis, and automation.<br>
 🚀 Eager to apply analytical skills in real-world projects and continuously learn new tools in the data domain.<br>
-👉 Let’s connect on LinkedIn:https://www.linkedin.com/in/vaishnavi-swami-aa2973320.<br>
+👉 Let’s connect on -
+LinkedIn:https://www.linkedin.com/in/vaishnavi-swami-aa2973320.<br>
 
 
 # 💻 Tech Stack:
