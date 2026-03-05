@@ -15,7 +15,4 @@
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=vaishnavi-swami&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-swami&layout=compact&theme=tokyonight)
----
-[![](https://visitcount.itsvg.in/api?id=vaishnavi-swami&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
